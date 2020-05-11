@@ -1,0 +1,23 @@
+.corpo {
+   width: 960px;
+   margin:auto;
+}
+ .conteudo {
+     display: table;
+ }
+ .imagem {
+     display: table-cell;
+
+ }
+ 
+ .texto {
+     display: table-cell;
+     float:left;
+     margin-top: -5px;
+     font-family: 'Poppins', sans-serif;
+     font-family: 'Pontano Sans', sans-serif;
+
+ }
+     body {
+         border:groove;
+     }
